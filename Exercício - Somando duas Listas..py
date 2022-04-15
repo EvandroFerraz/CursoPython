@@ -1,7 +1,5 @@
 """
-Considerando duas listas de inteiros, some as posições retornando uma nova 
-lista:    
-
+Considerando duas listas de inteiros, some as posições retornando uma nova lista:    
 Exemplo:
     lista_a = [1,2,3,4,5,6,7]
     lista_b = [1,2,3,4]
