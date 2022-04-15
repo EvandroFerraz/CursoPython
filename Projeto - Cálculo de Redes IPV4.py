@@ -161,6 +161,5 @@ def main():
     print(f'Prefixo: {calc_ipv4_2.prefixo}')
     print(f'Número de IPs da rede: {calc_ipv4_2.numero_ips}')
 
-
 if __name__ == '__main__':
     main()
